@@ -87,10 +87,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://dd-static.jd.com/ddimg/jfs/t1/215264/37/21101/242622/63173990E3e04709c/27504db7bb8368f9.jpg
+index_img: https://dd-static.jd.com/ddimg/jfs/t1/183775/12/29460/5368612/63476f1dE76e87354/7d5caf443c4a6234.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://dd-static.jd.com/ddimg/jfs/t1/215264/37/21101/242622/63173990E3e04709c/27504db7bb8368f9.jpg
+default_top_img: https://dd-static.jd.com/ddimg/jfs/t1/183775/12/29460/5368612/63476f1dE76e87354/7d5caf443c4a6234.png
 
 # The banner image of archive page
 archive_img:
